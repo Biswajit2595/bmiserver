@@ -4,8 +4,16 @@
       "id": 1,
       "name": "Biswa",
       "email": "biswa@gmail",
-      "password": "biswa",
-      "history": []
+      "password": "biswa"
+    }
+  ],
+  "history": [
+    {
+        "id":1,
+        "name":"Biswa",
+        "Bmi":18.55,
+        "height":160,
+        "weight":75
     }
   ]
 }
